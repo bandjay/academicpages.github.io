@@ -12,8 +12,7 @@ Data Exploration: Used R packages ggplot2 , pca, alr4,dplyr to check distributi
 Model Building: Used CARET,h20 packages in R to train different supervised learning models on data such as Regression, Logistic regression, Decision Tree, Random forests and methods such as cross validation,regularization to deal with over fitting<br/>
 Reporting: Presented and discussed the data driven model results with non technical audience (client) to identify the factors that can help in business decision making.<br/>
 ​
-During the course,I got the opportunity to work on several projects and learnt many things like text mining methods,HIVE and core banking domain.Below are details about two major projects,<br/>
-
+During the course,I got the opportunity to work on several projects and learnt many things like text mining methods,HIVE and core banking domain.Below are details about two major projects, 
 Loan Defaulter Prediction: <br/> 
 The objective of this project is to predict whether a customer of the bank will default or not in near future, and help the bank to make a decision in the approval process of loan.<br/>
 Identified the key variables for analysis by working together with banking domain Subject Matter Expert (SME) and documented the requirements
