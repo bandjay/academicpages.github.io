@@ -1,7 +1,7 @@
 ---
 title: "Infosys Limited [ AUG 2013 - DEC 2015]"
 collection: publications
-permalink: /publications/2009-10-01-paper-title-number-1
+permalink: /publications/2015-10-01-paper-title-number-1
 ---
 At Infosys, I worked for a European banking client on projects related to Data Analysis and Machine Learning. I have experience working on different phases of end to end pipeline under the supervision of Data Scientists, such as <br/>
 ​
