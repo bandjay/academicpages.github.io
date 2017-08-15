@@ -77,7 +77,7 @@ analytics:
 
 
 # Site Author
-author:"bandjay"
+author:
   name             : "Jay Bandlamudi"
   avatar           : "profile_pic.jpg"
   bio              : "M.S. in Analytics"
