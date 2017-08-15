@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Professional website"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Jay Bandlamudi"
+description              : &description "online portfolio"
 url                      : https://bandjay.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bandjay/bandjay.github.io"
@@ -77,40 +77,16 @@ analytics:
 
 
 # Site Author
-author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
+author:"bandjay"
+  name             : "Jay Bandlamudi"
+  avatar           : "profile_pic.jpg"
+  bio              : "M.S. in Analytics"
+  location         : "Urbana,IL"
+  employer         : "University of Illinois,UC"
+  email            : "bandlmd2@illinois.edu"
+  github           : "https://github.com/bandjay"
+  linkedin         : "https://www.linkedin.com/in/bandjay/"
+  
 
 # Reading Files
 include:
