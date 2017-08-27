@@ -1,7 +1,7 @@
 ---
 title: "Skills"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/Skills.png'>"
-collection: portfolio
+collection: teaching
 date: 2017:01:01
 ---
 
