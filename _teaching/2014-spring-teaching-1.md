@@ -7,3 +7,15 @@ excerpt: "Jay uses several tools for data analysis  and can program in R, python
 venue: "Academia"
 date: 2017-01-01
 ---
+
+Advanced user in R ,adept with packages such as Caret,dplyr ,tidyr, h2o,sparklyr ,ggplot2 and shiny
+<br/>
+Strong understanding of RDBMS , fluent in SQL
+<br/>
+Uses python in conjunction with R and experience with Data structures, OOP, Numpy, Pandas and Sci-kit learn
+<br/>
+Beginner in spark, using spark with R,Python for distributed machine learning
+<br/>
+Experience in SAS Base, posses knowledge in PROC to conduct Advanced Data Analysis 
+<br/>
+Working experience in Linux environment
