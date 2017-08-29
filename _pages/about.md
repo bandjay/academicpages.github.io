@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 Thanks for visiting, this website is about Jay's  professional experience,skills,projects,reports and code samples.
-
 <br />
+
 Jayachandu Bandlamudi (Jay) is a Data Science professional with more than 3.5 years of experience including both industry and academic research.Currently he is pursuing Master's degree in Analytics at the University of Illinois at Urbana-Champaign.In the past he worked with Infosys(India) for 2.5 years on several projects,and solved banking sector challenges using Machine Learning,Predictive Modelling and Big Data.At present ,he is a Research Assistant to the "College of Media" at the University of Illinois and working towards finding answers to media research questions by developing solutions using Machine Learning ,Text Mining.
 <br/>
 
