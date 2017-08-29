@@ -3,9 +3,7 @@ title: "Mayo Clinic [ MAY 2017 - AUG 2017]"
 collection: publications
 permalink: /publications/2016-10-01-paper-title-number-1
 ---
-In the summer of 2017, Jay worked as an IT intern at Mayo clinic.There he was responsible to develop tools for data pipelines and enhance existing tools.
-
-<br/>
+In the summer of 2017, Jay worked as an IT intern at Mayo clinic.There he was responsible to develop tools for data pipelines and enhance existing tools.<br/>
 Tool usage: Python, Unix, Perl, Selenium, beautiful soup, pptx
 
 <br/>
