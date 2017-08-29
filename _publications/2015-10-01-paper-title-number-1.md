@@ -3,7 +3,7 @@ title: "Infosys Limited [ AUG 2013 - DEC 2015]"
 collection: publications
 permalink: /publications/2015-10-01-paper-title-number-1
 ---
-At Infosys, Jay worked for a European banking client on projects related to Data Analysis and Machine Learning. He has experience working on different phases of end to end pipeline under the supervision of Data Scientists, such as <br/>
+At Infosys, Jay worked for a European banking client on projects related to Data Analysis and Machine Learning. He has experience working on different phases of end to end pipeline under the supervision of Data Scientists.<br/>
 ​<br/>
 Jay's worked on: <br/>
 Requirements: Communicated with client and Subject Matter Experts to identify and document business needs and problem statements that require data driven solutions<br/>
@@ -16,7 +16,7 @@ Reporting: Presented and discussed the data driven model results with non techni
 During his stint with Infosys,Jay got the opportunity to work on multiple projects and learned many things like text mining methods,HIVE and core banking domain.Apart from work routine, Jay delivered training sessions to peers on technology such as SQL,Big Data Basics and for the best efforts as a team player he was honored with "INSTA AWARD". After exhilarating 2.5 years in the job ,he decided to pursue Masters degree in Analytics at the University of Illinois at Urbana champaign to gain next level expertise in Data Analysis and Machine Learning<br/>
 <br/>
 Git links of projects, <br/>
-[Loan Defaulter Prediction](https://github.com/bandjay/Loan-Defaulters) <br/> 
+[Loan Defaulter Prediction](https://github.com/bandjay/Loan-Defaulters)<br/>
 [Customer Sentiment Analysis](https://github.com/bandjay/Customer-sentiment-analysis)
 ​
 ​
