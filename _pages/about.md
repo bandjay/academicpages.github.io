@@ -15,7 +15,7 @@ Jayachandu Bandlamudi (Jay) is a Data Science professional with more than 3.5 ye
 Jay is specalized in Data Analysis,Statistics,Big data,Machine Learning and Text Mining.He loves drowning in data,discovering stories from numbers using statistical analysis and analysing natural language/text.Jay did several projects using Data analytics ,Machine learning and Text mining and details can be found in projects section.He developed and coded many data pipelines using Pyhton,R ,SQL.Refer to "Resources" section for reusable scripts
 <br/>
 
-Jay is a certified "Apache Spark Developer" .Other than data, Jay loves cooking and playing video games.
+Jay is a certified "Apache Spark Developer" .Other than data, he loves cooking and playing video games.
 
 <br />​
 Contact Information:
