@@ -80,9 +80,8 @@ analytics:
 author:
   name             : "Jay Bandlamudi"
   avatar           : "profile_pic.jpg"
-  bio              : "M.S. in Analytics"
-  location         : "Urbana,IL"
-  employer         : "University of Illinois,UC"
+  bio              : "Research Software Engineer"
+  employer         : "IBM Research"
   email            : "bandlmd2@illinois.edu"
   github           : "bandjay"
   linkedin         : "bandjay"
