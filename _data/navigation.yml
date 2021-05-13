@@ -1,6 +1,10 @@
 # main links links
 main:
-  - title: "Work experience"
+
+  - title: "Education"
+    url: /education/
+  
+  - title: "Work Experience"
     url: /publications/
 
   - title: "Projects"
@@ -11,5 +15,6 @@ main:
     
   - title: "Resources"
     url: /portfolio/
+  
         
 

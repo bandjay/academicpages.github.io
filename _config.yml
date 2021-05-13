@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Professional website"
+title                    : "About Jay"
 title_separator          : "-"
 name                     : &name "Jay Bandlamudi"
 description              : &description "online portfolio"
@@ -81,8 +81,8 @@ author:
   name             : "Jay Bandlamudi"
   avatar           : "profile_pic.jpg"
   bio              : "Research Software Engineer"
-  employer         : "IBM Research"
-  email            : "bandlmd2@illinois.edu"
+  employer         : "IBM Research Lab,India"
+  email            : "jaycb@live.com"
   github           : "bandjay"
   linkedin         : "bandjay"
   
@@ -156,6 +156,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  education:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -213,7 +216,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _talks
+  - scope:
+      path: ""
+      type: education
+    values:
+      layout: single
+      author_profile: true
+      share: true
 # Sass/SCSS
 sass:
   sass_dir: _sass
