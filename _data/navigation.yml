@@ -5,16 +5,19 @@ main:
     url: /education/
   
   - title: "Work Experience"
-    url: /publications/
+    url: /experience/
 
   - title: "Projects"
-    url: /talks/    
+    url: /projects/    
 
   - title: "Expertise"
-    url: /teaching/    
-    
+    url: /expertise/    
+  
+  - title: "Awards"
+    url: /awards/  
+  
   - title: "Resources"
-    url: /portfolio/
+    url: /resources/
   
         
 

@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Expertise"
-permalink: /teaching/
+title: "Work Experience"
+permalink: /experience/
 author_profile: true
 ---
 
-{% for post in site.teaching reversed %}
+{% for post in site.experience reversed %}
   {% include archive-single.html %}
 {% endfor %}
